@@ -4,7 +4,9 @@
 
 **Anki decks ↔ Markdown files, in perfect sync**
 
-![showcase_gif](./showcase.gif)
+<video src="./showcase.mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
 ## The Problem
 
@@ -47,7 +49,7 @@ deckops am # anki to markdown (export)
 
 ### How is this different from other Markdown or Obsidian tools?
 
-Available tools are one-way importers: you write in Markdown and push to Anki, but edits in Anki don't sync back. DeckOps is *fully bidirectional*: you can edit in either Anki or Markdown and sync in both directions. Additionally, DeckOps uses a simpler one-file-per-deck structure, making your collection easier to navigate and manage.
+Available tools are one-way importers: you write in Markdown or Obsidian and push to Anki, but edits in Anki don't sync back. DeckOps is fully bidirectional: you can edit in either Anki or Markdown and sync in both directions. Additionally, DeckOps uses a one-file-per-deck structure, making your collection easier to navigate and manage than approaches that use one file per card.
 
 ### Is it safe to use?
 
