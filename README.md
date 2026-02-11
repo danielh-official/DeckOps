@@ -5,7 +5,7 @@
 **Anki decks ↔ Markdown files, in perfect sync**
 
 <video src="https://github.com/user-attachments/assets/f0b12979-f41a-4da9-b7fb-8587ca48329a" controls width="100%">
-  Your browser does not support the video tag.
+  Your browser does not support the video tag. Please refer to showcase.mp4.
 </video>
 
 ## The Problem
