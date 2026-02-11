@@ -4,6 +4,8 @@
 
 **Anki decks ↔ Markdown files, in perfect sync**
 
+![showcase_gif](./showcase.gif)
+
 ## The Problem
 
 Managing Anki decks through the UI can feel complex and slow. Working with decks as plain text files on the other hand would enable AI support, batch editing, and version control.
