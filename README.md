@@ -94,7 +94,7 @@ We recommend using VS Code. It has excellent AI integration, a great [add-on](ht
 
 ### How can I share my DeckOps deck with others?
 
-Share your Markdown files and the `media/DeckOpsMedia` content. Make sure to remove all IDs from your Markdown files beforehand.
+You can either export your deck using Anki's native export feature (`.apkg` file) and share that, or directly share your Markdown files along with the `media/DeckOpsMedia` folder. Make sure to remove all ID tags from your Markdown files first, as they are profile-specific.
 
 ### How can I migrate my existing cards into DeckOps?
 
