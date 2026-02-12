@@ -22,7 +22,7 @@ Editing flashcards in Anki's UI is tedious when you could be using your favorite
 - Simple CLI interface: after initialization, only two commands are needed for daily use
 
 > [!NOTE]
-> **Note:** DeckOps only syncs the `DeckOpsQA` and `DeckOpsCloze` note types. Other note types will not be synced.
+> DeckOps only syncs the `DeckOpsQA` and `DeckOpsCloze` note types. Other note types will not be synced.
 
 
 ## Getting Started
